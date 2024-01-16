@@ -1,0 +1,12 @@
+﻿using System;
+class tsuneTyping{
+    private static void Main(){
+        int[] array={1,1};
+        for(int i=2;i<30;i++){
+            int tmp=array[1];
+            array[1]=array[0]+array[1];
+            array[0]=tmp;
+        }
+        Console.Write("30th Fibonacci sequence"+array[1]);
+    }
+}

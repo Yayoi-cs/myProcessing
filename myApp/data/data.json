@@ -1,0 +1,27 @@
+{
+  "maxLevel": 2,
+  "C#": {
+    "1": false,
+    "2": false
+  },
+  "C": {
+    "1": true,
+    "2": false
+  },
+  "Go": {
+    "1": true,
+    "2": true
+  },
+  "PHP": {
+    "1": true,
+    "2": false
+  },
+  "Python": {
+    "1": false,
+    "2": false
+  },
+  "Assembly": {
+    "1": false,
+    "2": false
+  }
+}

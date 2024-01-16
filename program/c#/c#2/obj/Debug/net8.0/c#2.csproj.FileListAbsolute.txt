@@ -1,0 +1,15 @@
+/home/tsuneki/doc/processing/program/c#/c#2/bin/Debug/net8.0/c#2
+/home/tsuneki/doc/processing/program/c#/c#2/bin/Debug/net8.0/c#2.deps.json
+/home/tsuneki/doc/processing/program/c#/c#2/bin/Debug/net8.0/c#2.runtimeconfig.json
+/home/tsuneki/doc/processing/program/c#/c#2/bin/Debug/net8.0/c#2.dll
+/home/tsuneki/doc/processing/program/c#/c#2/bin/Debug/net8.0/c#2.pdb
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/c#2.GeneratedMSBuildEditorConfig.editorconfig
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/c#2.AssemblyInfoInputs.cache
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/c#2.AssemblyInfo.cs
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/c#2.csproj.CoreCompileInputs.cache
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/c#2.sourcelink.json
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/c#2.dll
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/refint/c#2.dll
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/c#2.pdb
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/c#2.genruntimeconfig.cache
+/home/tsuneki/doc/processing/program/c#/c#2/obj/Debug/net8.0/ref/c#2.dll

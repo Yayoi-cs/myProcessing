@@ -1,0 +1,15 @@
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/c#.sourcelink.json
+/home/tsuneki/doc/processing/program/c#/bin/Debug/net8.0/c#
+/home/tsuneki/doc/processing/program/c#/bin/Debug/net8.0/c#.deps.json
+/home/tsuneki/doc/processing/program/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/home/tsuneki/doc/processing/program/c#/bin/Debug/net8.0/c#.dll
+/home/tsuneki/doc/processing/program/c#/bin/Debug/net8.0/c#.pdb
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/c#.dll
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/refint/c#.dll
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/c#.pdb
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/home/tsuneki/doc/processing/program/c#/obj/Debug/net8.0/ref/c#.dll
